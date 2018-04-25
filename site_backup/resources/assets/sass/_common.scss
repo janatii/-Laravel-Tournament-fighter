@@ -1,0 +1,24 @@
+// Variables
+@import "variables";
+
+// jQuery UI
+@import "node_modules/jquery-ui/themes/base/core";
+@import "node_modules/jquery-ui/themes/base/slider";
+@import "node_modules/jquery-ui/themes/base/theme";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Font Awesome
+@import "node_modules/font-awesome/scss/font-awesome";
+
+// Remodal
+@import "node_modules/remodal/dist/remodal";
+@import "node_modules/remodal/dist/remodal-default-theme";
+
+.remodal-close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: inherit;
+}

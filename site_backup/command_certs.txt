@@ -1,0 +1,2 @@
+sudo letsencrypt certonly -a standalone -d tnf.zedentox.net,www.tnf.zedentox.net,lol.tnf.zedentox.net,cod3-ps.tnf.zedentox.net,cod3-xb.tnf.zedentox.net,overwatch.tnf.zedentox.net,hearthstone.tnf.zedentox.net,cs-go.tnf.zedentox.net,cod3-xbox.tnf.zedentox.net,r6s-pc.tnf.zedentox.net,r6s-ps.tnf.zedentox.net --expand
+

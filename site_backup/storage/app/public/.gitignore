@@ -1,0 +1,8 @@
+*
+!.gitignore
+!users/
+!platforms/
+!games/
+!networks/
+!teams/
+!maps/
