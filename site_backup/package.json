@@ -15,7 +15,7 @@
     "jquery-ui": "^1.12.1",
     "laravel-echo": "^1.3.0",
     "laravel-mix": "^1.0",
-    "lodash": "^4.16.2",
+    "lodash": "^4.17.19",
     "maildev": "^1.0.0-rc2",
     "moment": "^2.18.1",
     "remodal": "^1.1.1",
